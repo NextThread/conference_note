@@ -1,1 +1,1 @@
-# conference_note
+# conference_note in JSM
